@@ -1,0 +1,34 @@
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.csproj.AssemblyReference.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.Form1.resources
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.csproj.GenerateResource.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.AssemblyInfoInputs.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.AssemblyInfo.cs
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.csproj.CoreCompileInputs.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.exe
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.deps.json
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.runtimeconfig.json
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.dll
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.pdb
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.dll
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\refint\SushkoLab2.dll
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.pdb
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.genruntimeconfig.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\ref\SushkoLab2.dll
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.dll
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\refint\SushkoLab2.dll
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.pdb
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.exe
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.deps.json
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.runtimeconfig.json
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.dll
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\bin\Debug\net6.0-windows\SushkoLab2.pdb
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.Form1.resources
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.AssemblyInfo.cs
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\SushkoLab2.genruntimeconfig.cache
+C:\Users\Diana\Desktop\SushkoLab2\SushkoLab2\obj\Debug\net6.0-windows\ref\SushkoLab2.dll
